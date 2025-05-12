@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "SmartBins.html",
+    "href": "SmartBins.html",
+    "title": "🟧 Smart Composting Bins",
+    "section": "",
+    "text": "NYC Smart Composting Bins, deployed by the Department of Sanitation, make composting easy and accessible across all five boroughs. These bins are available 24/7 and are a key part of the city’s Zero Waste plan, helping reduce landfill use and support a more sustainable future for New York City.\n\n\n\n\n\nThese bins were rolled out in late 2021 as part of\n\n🔒How it Works\nAn app is required to unlock these bins!\nDownload the app for iOS\nDownload the app for Android\n\nOnce you’re close to an available bin, the unlock options becomes available in the app\nTap the unlock button to open the bin. A green light will flash and a melody will play to confirm it’s unlocking\nDeposit your compost!\n\n\n\n📍Where to Find Them\nThere are nearly 400 bins across the city.\nUse the interactive map to locate the one closest to you!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "🍎 Home",
+    "section": "",
+    "text": "A beginner’s webpage to composting in New York City!\n\nWelcome to Compost NYC! On this website, you’ll learn all about composting and the Department of Sanitation’s Smart Composting Bins\nCheck out this interactive map to find the nearest food scrap drop-off site!\nLearn about the site!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "🌤️ About",
+    "section": "",
+    "text": "About the Author\nGreetings! I’m Carolyn Petree, and I created this website as part of Hunter College’s WebGIS Course within the GIS Certificate, taught by Professor Shipeng Sun. I’m in my third semester of the program and just applied to switch into the Masters of Geoinformatics. I received my Bachelor of Arts from Virginia Tech in Environmental Policy and Planning, with a minor in GIS.\n\n\nAbout the Spatial Data\nThe main Food Drop-Off Location feature layer was sourced from NYC Open Data. The data was provided by the Department of Sanitation. It was downloaded on April 17th and therefore doesn’t reflect the latest updates from the Open Data website.\nFiscal Year 2024 data was sourced from the Department of Sanitation’s Zero Waste Plan 2024 Report.\nMonthly Tonnage data by DSNY Community District was also sourced from NYC Open Data, prodivded by the Department of Sanitation.\n\n\nAbout the Informative Data\nSources for general information are linked where they have been referenced."
+  },
+  {
+    "objectID": "COMPOST.html",
+    "href": "COMPOST.html",
+    "title": "🌱 All About Composting",
+    "section": "",
+    "text": "Composting is the process of recycling organic waste into a nutrient-rich soil booster!"
+  },
+  {
+    "objectID": "COMPOST.html#composting-in-nyc",
+    "href": "COMPOST.html#composting-in-nyc",
+    "title": "🌱 All About Composting",
+    "section": "🍎 Composting in NYC",
+    "text": "🍎 Composting in NYC\nFood waste accounts for approximately 1/3rd of New York City’s residential waste stream!\nNew York City began piloting its smart compost bin program in late 2021. Since then, the program has expanded to include nearly 400 bins located across all five boroughs.\nThe Department of Sanitation has prioritized bin placement near New York City Housing Authority (NYCHA) properties to improve access for residents in public housing. This effort aligns with the city’s broader zero waste goals.\nIn fiscal year 2024, the smart bins recorded 154,355 unique users and were unlocked a total of 1,215,618 times.\nNew York City residents can also register to collect end-product compost for free!"
+  },
+  {
+    "objectID": "COMPOST.html#curbside-composting",
+    "href": "COMPOST.html#curbside-composting",
+    "title": "🌱 All About Composting",
+    "section": "🚚 Curbside Composting",
+    "text": "🚚 Curbside Composting\n\nAs of April 1st, 2025, all NYC residents are required to separate food scraps, food-soiled paper, or yard waste from trash, at the risk of being fined.\nLearn more here.\nOrder a DSNY brown composting bin here.\nFind your collection schedule here."
+  }
+]
